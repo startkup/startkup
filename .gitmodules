@@ -10,3 +10,7 @@
 	path = vendor
 	url = https://github.com/tkuaiic/tkuaiic-vendor.git
 	branch = master
+[submodule "policies"]
+	path = policies
+	url = https://github.com/tkuaiic/tkuaiic-policies.git
+	branch = master
