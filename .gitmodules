@@ -6,3 +6,7 @@
 	path = resources
 	url = https://github.com/tkuaiic/tkuaiic-resources.git
 	branch = master
+[submodule "vendor"]
+	path = vendor
+	url = https://github.com/tkuaiic/tkuaiic-vendor.git
+	branch = master
